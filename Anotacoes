@@ -1,0 +1,9 @@
+Api Restfull para controle de produto
+Model:
+    Produto -  id, nome, quantidade, valor  e observação
+
+Repositoy:
+    obterTodos, obterPorId, adcionar, atualizar, deletar
+
+Service de produto:
+    obterTodos, obterPorId, adcionar, atualizar, deletar
